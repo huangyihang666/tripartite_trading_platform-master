@@ -6,7 +6,7 @@ import lombok.Data;
 public class UserInfo {
     String userName;
     int age;
-    //桂圆大傻逼
+    //jjj
     String password;
     String guiyuan;
 }
