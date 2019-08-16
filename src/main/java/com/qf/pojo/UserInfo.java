@@ -9,4 +9,6 @@ public class UserInfo {
     //jjj
     String password;
     String guiyuan;
+    //fyujfjhgjh
+
 }
